@@ -9,10 +9,12 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ortiz-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Ortiz-Spring" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Ortiz-docker" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Ortiz-docker" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <a href="#">
+    <img align="center" alt="Ortiz-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" alt="Ortiz-Spring" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Ortiz-docker" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+    <img align="center" alt="Ortiz-docker" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  </a>
 </div>
 <h2 dir="auto"></h2>
 <div> 
